@@ -1,0 +1,38 @@
+.home-container {
+  background-color: #183b56;
+  color: white;
+  height: 100vh;
+  width: 100vw;
+}
+.header {
+  height: 10vh;
+  width: 100vw;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-img {
+  height: 30px;
+  width: 90px;
+}
+.logout-btn {
+  border: #ffffff 2px solid;
+  border-radius: 7px;
+  padding: 10px;
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.digital-card {
+  width: 300px;
+  height: 200px;
+}
+.home-page {
+  height: 90vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
